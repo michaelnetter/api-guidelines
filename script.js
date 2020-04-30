@@ -19,7 +19,7 @@ new Docute({
       link: '/'
     },
     '0.9.0': {
-      link: 'https://raw.githubusercontent.com/michaelnetter/api-guidelines/v0.9.0'
+      link: 'https://raw.githubusercontent.com/michaelnetter/api-guidelines/v0.9.0/docs'
     },
   },
   nav: [
