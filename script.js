@@ -15,9 +15,12 @@ new Docute({
   detectSystemDarkTheme: true,
   darkThemeToggler: true,
   versions: {
-    '0.9.0 (Latest)': {
+    '1.0.0 (Latest)': {
       link: '/'
-    }
+    },
+    '0.9.0': {
+      link: 'https://raw.githubusercontent.com/michaelnetter/api-guidelines/v0.9.0'
+    },
   },
   nav: [
     {
@@ -39,6 +42,10 @@ new Docute({
         },
         {
           title: 'Customization',
+          link: '/about'
+        },
+        {
+          title: 'Ladida',
           link: '/about'
         }
       ]
