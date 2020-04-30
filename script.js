@@ -3,6 +3,7 @@
 new Docute({
   target: '#docute',
   sourcePath: './docs/',
+  title: 'API Guidelines',
   darkThemeToggler: 'true',
   layout: 'left',
   nav: [
