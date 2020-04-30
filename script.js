@@ -3,6 +3,8 @@
 new Docute({
   target: '#docute',
   sourcePath: './docs/',
+  darkThemeToggler: 'true',
+  layout: 'left',
   nav: [
     {
       title: 'Home',
